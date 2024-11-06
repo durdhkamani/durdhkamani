@@ -1,0 +1,201 @@
+
+@media screen and (min-width:1241px) and (max-width:1500px)
+{
+    .home-about-content p{max-width: 70%;}
+    .skill-btn{max-width: 85%;}
+    .footer-connect a img{top: -60px; right: 20%;}
+    
+/* ****************** */
+    .about-cnt h3{width: 80%;}
+
+}
+
+
+@media screen and (min-width:1025px) and (max-width:1240px)
+{
+	.home-about-content p{max-width: 80%;}
+    .skill-btn{max-width: 95%;}
+    .footer, .footer-content{height: 100vh;}
+    .footer-connect a{font-size: 160px;}
+    .footer-connect a img{width: 140px; top: -40px; right: 20%;}
+
+/* ========================================== */
+
+    .about-content{max-width: 70%;}
+    .about-cnt h3{width: 86%;}
+
+/* ========================================== */
+
+    .contact .container{max-width: 80%;}
+    .contact-dots{width: 43%;}
+
+/* ========================================== */
+
+
+}
+
+
+@media screen and (min-width:992px) and (max-width:1024px)
+{
+	.home-about-content p{max-width: 85%;}
+    .skill-btn{max-width: 95%;}
+    .footer, .footer-content{height: 100vh;}
+    .footer-connect a{font-size: 160px;}
+    .footer-connect a img{width: 140px; top: -40px; right: 20%;}
+
+/* ========================================== */
+
+    .about-content{max-width: 70%;}
+    .about-cnt h3{width: 86%;}
+
+/* ========================================== */
+
+    .contact .container{max-width: 80%;}
+    .contact-dots{width: 43%;}
+
+
+
+}
+
+
+@media screen and (min-width:768px) and (max-width:991px)
+{
+	.home-about-content p{max-width: 100%;}
+    .head-title{margin: 145px auto;}
+    .head-title h3{font-size: 60px;}
+    .head-title h6{padding-right: 9%;}
+    .experience-head{margin-bottom: 50px;}
+    .education-head{margin-bottom: 50px;}
+    .skill-btn{max-width: 100%;}
+    .footer, .footer-content{height: 100vh;}
+    .footer-connect a{font-size: 130px;line-height: 150px;}
+    .footer-connect h6{font-size: 15px;}
+    .footer-social-media ul a {width: 130px;height: 45px;font-size: 15px;}
+    .footer-connect a img{width: 130px; top: -40px; right: 15%;}
+
+/* ========================================== */
+
+    .about-content{max-width: 80%;}
+    .about-cnt h3{width: 90%;font-size: 30px;}
+    .about-cnt p{font-size: 17px;}
+    .signature h1{width: 250px; font-size: 50px;}
+
+/* ========================================== */
+
+    .contact .container{max-width: 85%;}
+    .contact-dots{width: 41%;}
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 767px)
+{
+    .container, .footer-content{max-width: 90%;}
+    .nav-menu.navbar-menu-desktop{display: none;}
+    .navbar-card-menu{display: block;}
+    .nav-menu ul{gap: 20px;}
+	.home-about-content p{max-width: 100%; font-size: 22px;}
+    .head-title{width: 450px; margin: 145px auto;}
+    .head-title h3{font-size: 40px;}
+    .head-title h6{font-size: 15px; padding-right: 20px;}
+    .experience-head{margin-bottom: 50px;}
+    .experience-cnt h4{font-size: 26px;margin-bottom: 20px;}
+    .experience-head h3{font-size: 37px;}
+    .education-head{margin-bottom: 50px;}
+    .edu-dtl h4{font-size: 26px;margin-bottom: 20px;}
+    .education-head h3{font-size: 37px;}
+    .exp-dtl h6{font-size: 17px;}
+    .skill{padding-top: 50px;}
+    .skill-btn{max-width: 100%; gap: 18px;}
+    .skill-btn button{padding: 0;}
+    .skill-content h3{font-size: 37px;}
+    label.skill-check{height: 45px; font-size: 15px; padding: 0px 15px;}
+    .footer, .footer-content{height: 100vh;}
+    .footer-connect a{font-size: 140px;line-height: 150px;}
+    .footer-connect h6{font-size: 14px;}
+    .footer-content{padding: 40px 0px;}
+    .footer-social-media ul{gap: 15px;}
+    .footer-social-media ul a {width: 45px;height: 45px;font-size: 15px;}
+    .footer-social-media ul a li span{display: none;}
+    .footer-social-media ul a li .fa-brands{display: block;font-size: 16px;}
+    .footer-part{row-gap: 40px;}
+    .footer-social-media ul a{border: 1px solid #73b0fc;background-color: #73b1fc31;}
+    .footer-connect a img{width: 130px; top: -25px; right: 10%; rotate: 0deg;}
+
+/* ========================================== */
+
+    .about-content{max-width: 100%;}
+    .about-cnt h3{width: 100%;font-size: 30px;}
+    .about-cnt p{font-size: 17px;}
+    .signature h1{width: 250px; font-size: 50px;}
+
+/* ========================================== */
+
+
+    .contact .container{max-width: 85%;}
+    .contact-main-form{padding: 15px 25px;}
+    .contact-dots{width: 39%;}
+
+
+
+}
+
+
+@media screen and (max-width:575px)
+{
+    .head-title{width: 410px;}
+	.head-title h3 span{padding-left: 60px;}
+    .head-title{margin: 110px auto;}
+    .footer-connect a img{width: 130px; top: -35px; right: 5%; rotate: 0deg;}
+
+/* ========================================== */
+
+    .about-cnt h3{width: 100%;font-size: 27px;}
+
+/* ========================================== */
+
+    .contact .container{max-width: 90%;}
+    .contact-dot-circle{width: 10px;height: 10px;gap: 8px;}
+    .contact-title h6{font-size: 15px;}
+    .contact-field-msg textarea{height: 200px;}
+    .contact{padding-bottom: 50px;}
+    .contact-field{flex-wrap: wrap;gap: 8px;padding-bottom: 10px; margin-bottom: 25px;}
+    .contact-main-form{padding: 20px;}
+
+
+}
+
+
+@media screen and (max-width:480px)
+{
+    .head-title{width: 360px;}
+    .head-title h3 span{padding-left: 0;}
+    .exp-dtl{flex-direction: column;align-items: start;}
+    .exp-dtl h6{margin-bottom: 7px;}
+    .footer-connect a{font-size: 130px;line-height: 130px;}
+    .back-to-top a span{display: none;}
+    .footer-child{flex-direction: column;gap: 20px;align-items: start;}
+    .footer-connect a img{width: 100px; top: -25px; right: 0%; rotate: 0deg;}
+
+
+}
+
+@media screen and (max-width:325px)
+{
+    .head-title{width: 310px;}
+    .head-title h3{font-size: 30px;}
+    .head-title h6{padding-left: 35px;}
+    .footer-connect a{font-size: 100px;line-height: 100px;}
+    .footer-part{row-gap: 30px;}
+    .footer-connect a img{width: 80px; top: -25px; right: 0%; rotate: 0deg;}
+
+}
